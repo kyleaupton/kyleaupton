@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I enjoy writing TypeScript, I'm a Vue fan, and I'm really good at pretending to not notice the memory Electron is quietly hoarding.
+I enjoy writing TypeScript, I'm a Vue fan, and I'm really good at pretending I don't notice the memory Electron is quietly hoarding.
 
 <br />
 
