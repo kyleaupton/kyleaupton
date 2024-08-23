@@ -2,12 +2,13 @@
 
 My day involves coaxing Vue.js into actually updating the DOM when it’s supposed to, rather than when it feels like it. Ensuring TypeScript stays content that the codebase isn’t just `any`—only enough to keep things spicy. Pushing Node.js to handle more than a few requests without having a meltdown. And making use of Electron to convert web apps into desktop apps, while pretending not to notice the memory it’s quietly hoarding.
 
+<br />
+
 <!-- Dark Mode -->
 <div align="center"> 
   <img height="195px" src="https://githubstats.uptonlab.org/top-langs?username=kyleaupton&exclude_repo=node-wimlib-split,lan-scan&layout=compact&theme=dark" alt="Kyle Language stats" />
-  <img src="https://githubstats.uptonlab.org/?username=kyleaupton&include_all_commits=true&show_icons=true&theme=dark" alt="Kyle Github stats" />
+  <img height="195px" src="https://githubstats.uptonlab.org/?username=kyleaupton&include_all_commits=true&show_icons=true&theme=dark" alt="Kyle Github stats" />
 </div>
-
 
 ### Languages
 
