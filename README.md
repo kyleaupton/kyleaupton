@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My day involves coaxing Vue.js into actually updating the DOM when it’s supposed to, rather than when it feels like it. Ensuring TypeScript stays content that the codebase isn’t just `any`—only enough to keep things spicy. Pushing Node.js to handle more than a few requests without having a meltdown. And letting Electron turn web apps into desktop giants, while pretending not to notice the memory it’s quietly hoarding.
+My day involves coaxing Vue.js into actually updating the DOM when it’s supposed to, rather than when it feels like it. Ensuring TypeScript stays content that the codebase isn’t just `any`—only enough to keep things spicy. Pushing Node.js to handle more than a few requests without having a meltdown. And making use of Electron to convert web apps into desktop apps, while pretending not to notice the memory it’s quietly hoarding.
 
 <!-- Dark Mode -->
 <div align="center"> 
