@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My day involves coaxing Vue.js into actually updating the DOM when it’s supposed to, rather than when it feels like it. Ensuring TypeScript stays content that the codebase isn’t just `any`—only enough to keep things spicy. Pushing Node.js to handle more than a few requests without having a meltdown. And making use of Electron to convert web apps into desktop apps, while pretending not to notice the memory it’s quietly hoarding.
+I enjoy writing TypeScript, I'm a Vue fan, and I'm really good at pretending to not notice the memory Electron is quietly hoarding.
 
 <br />
 
@@ -23,7 +23,6 @@ My day involves coaxing Vue.js into actually updating the DOM when it’s suppos
     <img height="195px" src="https://githubstats.uptonlab.org/?username=kyleaupton&include_all_commits=true&show_icons=true&theme=light#gh-light-mode-only" alt="Kyle Github stats" />
   </a>
 </div>
-
 
 ### Languages
 
