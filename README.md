@@ -19,4 +19,6 @@ My day involves coaxing Vue.js into actually updating the DOM when it’s suppos
   <img src="https://githubstats.uptonlab.org/?username=kyleaupton&include_all_commits=true&show_icons=true&theme=dark" alt="Kyle Github stats" />
 </div>
 
+<br />
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kyleaupton.visitor-badge)
