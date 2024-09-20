@@ -4,27 +4,6 @@ I enjoy writing TypeScript, I'm a Vue fan, and I'm really good at pretending I d
 
 <br />
 
-<!-- Dark Mode -->
-<!-- <div align="center">
-  <a href="https://github.com/kyleaupton#gh-dark-mode-only">
-    <img height="195px" src="https://githubstats.uptonlab.org/top-langs?username=kyleaupton&exclude_repo=node-wimlib-split,lan-scan&layout=compact&theme=dark#gh-dark-mode-only" alt="Kyle Language stats" />
-  </a>
-  <a href="https://github.com/kyleaupton#gh-dark-mode-only">
-    <img height="195px" src="https://githubstats.uptonlab.org/?username=kyleaupton&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Kyle Github stats" />
-  </a>
-</div> -->
-
-<!-- Light Mode -->
-<!-- <div align="center"> 
-  <a href="https://github.com/kyleaupton#gh-light-mode-only">
-    <img height="195px" src="https://githubstats.uptonlab.org/top-langs?username=kyleaupton&exclude_repo=node-wimlib-split,lan-scan&layout=compact&theme=light#gh-light-mode-only" alt="Kyle Language stats" />
-  </a>
-  <a href="https://github.com/kyleaupton#gh-light-mode-only">
-    <img height="195px" src="https://githubstats.uptonlab.org/?username=kyleaupton&include_all_commits=true&show_icons=true&theme=light#gh-light-mode-only" alt="Kyle Github stats" />
-  </a>
-</div> -->
-
-<!-- New -->
 <div align="center">
   <span>
     <img
