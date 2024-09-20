@@ -25,7 +25,7 @@ I enjoy writing TypeScript, I'm a Vue fan, and I'm really good at pretending I d
 </div> -->
 
 <!-- New -->
-<div style="display: flex; justify-content: space-between">
+<div align="center">
   <img
     height="195px"
     src="https://githubstats.uptonlab.org/top-langs?username=kyleaupton&exclude_repo=node-wimlib-split,lan-scan&layout=compact"
