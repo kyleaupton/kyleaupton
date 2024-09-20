@@ -26,21 +26,21 @@ I enjoy writing TypeScript, I'm a Vue fan, and I'm really good at pretending I d
 
 <!-- New -->
 <div align="center">
-  <a href="https://github.com/kyleaupton" style="text-decoration: none">
+  <div>
     <img
       height="195px"
       src="https://githubstats.uptonlab.org/top-langs?username=kyleaupton&exclude_repo=node-wimlib-split,lan-scan&layout=compact"
       alt="Kyle's Language stats"
     />
-  </a>
+  </div>
 
-  <a href="https://github.com/kyleaupton" style="text-decoration: none">
+  <div>
     <img
       height="195px"
       src="https://githubstats.uptonlab.org/?username=kyleaupton&include_all_commits=true&show_icons=true"
       alt="Kyle's GitHub stats"
     />
-  </a>
+  </div>
 </div>
 
 ### Languages
