@@ -8,7 +8,7 @@ I enjoy writing TypeScript, I'm a Vue fan, and I'm really good at pretending I d
   <span>
     <img
       height="195px"
-      src="https://githubstats.uptonlab.org/top-langs?username=kyleaupton&exclude_repo=node-wimlib-split,lan-scan&layout=compact"
+      src="https://githubstats.uptonlab.org/top-langs?username=kyleaupton&layout=compact"
       alt="Kyle's Language stats"
     />
   </span>
@@ -28,7 +28,6 @@ I enjoy writing TypeScript, I'm a Vue fan, and I'm really good at pretending I d
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-
 
 ### Technologies & Frameworks
 
